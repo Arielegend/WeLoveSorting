@@ -2,7 +2,6 @@
 Ariel Ozary
 */
 import React from "react";
-// import SortingVisualizer from './SortingVisualizer/SortingVisualizer';
 import SortingVisualizer from "./Components/SortingVisualizer/SortingVisualizer";
 
 import "./App.css";
